@@ -3,7 +3,7 @@ of how the trailing volatility or changes in spread over different time periods 
 
 
 Disclaimer
-This article should never be considered as investing guidance or advice in any capacity whatsoever. It is solely intended to help readers discover intriguing theories about markets that they may or may not want to explore on their own.
+This notebook should never be considered as investing guidance or advice in any capacity whatsoever. It is solely intended to help readers discover intriguing theories about markets that they may or may not want to explore on their own.
 
 These are my own opinions and do not represent the opinions of my employer in any capacity whatsoever.
 
